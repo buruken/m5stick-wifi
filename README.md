@@ -1,2 +1,2 @@
 # m5stick-wifi
-Test implementation of WiFi for m5stick.
+WiFi connection for m5stick.
